@@ -8,3 +8,7 @@ C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.csproj.GenerateReso
 C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.csproj.CoreCompileInputs.cache
 C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.exe
 C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.pdb
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub1.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub2.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub3.resources
+C:\Users\hanif\Desktop\restconduct\BLASTN7\obj\Debug\BLASTN7.fSub4.resources
